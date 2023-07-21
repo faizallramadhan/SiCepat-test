@@ -40,7 +40,7 @@ how to run:
 2. Open SiCepat-Test/karate-api on your java environtments debugger, I'm using VSCode
 3. Click/choose api.feature
 4. Click "Run" codelens
-
+5. Test will run and the report.html will created automatically
 
 Credit: Faizal Ramadhan Suyitno Putra
 
