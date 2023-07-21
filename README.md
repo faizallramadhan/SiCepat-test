@@ -22,7 +22,7 @@ answer:
 SELECT e.emp_code, e.emp_name, e.emp_status, i.emp_income
 FROM tbl_employee e
 INNER JOIN tbl_income i ON e.emp_code = i.emp_code
-ORDER BY i.emp_income DESC;
+ORDER BY i.emp_income +0 DESC;
 
 #Automation script task
 Environtment: Selenium webdriver with python
