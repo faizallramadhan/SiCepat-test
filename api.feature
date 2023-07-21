@@ -7,3 +7,5 @@ Scenario:
   * status 200
   * match response.id == '#number'
   * match response.title == '#string'
+  * match response.body == '#string'
+  * match response.userId == !null
