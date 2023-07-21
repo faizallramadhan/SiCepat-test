@@ -1,6 +1,7 @@
 # SiCepat-test
 
 #SQL Query task
+Environtment: Any SQL Tools - I am using phpmyadmin
 a) Buat query jika mencari employee name dan status employee?
 answer:
 
@@ -37,10 +38,12 @@ Environtment: Karate
 
 how to run:
 1. Pull/clone repository
-2. Open SiCepat-Test/karate-api on your java environtments debugger, I'm using VSCode
+2. Open SiCepat-Test/karate-api on your java environtments debugger, I am using VSCode
 3. Click/choose api.feature
 4. Click "Run" codelens
 5. Test will run and the report.html will created automatically
 
+
+Run video included
 Credit: Faizal Ramadhan Suyitno Putra
 
